@@ -55,8 +55,8 @@ section {
     width: 700px;
     padding-left: 40px;
     padding-right: 40px;
-    background: rgba(202, 197, 197, 0.08);
-    backdrop-filter: blur(4px);
+    background: rgba(49, 48, 48, 0.404);
+    backdrop-filter: blur(20px);
     border-radius: 20px;
 }
 
@@ -156,8 +156,8 @@ section li{
         width: 80%;
         padding-left: 8px;
         padding-right: 8px;
-        background: rgba(202, 197, 197, 0.08);
-        backdrop-filter: blur(4px);
+        background: rgba(49, 48, 48, 0.404);
+        backdrop-filter: blur(20px);
         border-radius: 20px;
     }
     
