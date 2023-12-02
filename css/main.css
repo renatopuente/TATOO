@@ -4,6 +4,10 @@ body, html {
   }
 
 
+* {
+    box-sizing: border-box;
+}
+
 .bg {
   /* IMG de fondo */
   background-image: url("../assets/fondo.jpg");
@@ -17,3 +21,14 @@ body, html {
   background-size: cover;
 }
 
+.contenedor {
+  /* Contenido */
+    margin: 0 auto;
+    max-width: 1200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar {
+
+}
