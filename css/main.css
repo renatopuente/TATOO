@@ -165,7 +165,7 @@ section li{
         color: #FFF;
         text-align: center;
         font-family: Montserrat;
-        font-size: 14px;
+        font-size: 16px;
         font-style: normal;
         font-weight: 300;
         line-height: normal;
@@ -175,7 +175,7 @@ section li{
         color: #FFF;
         text-align: center;
         font-family: Fira Sans Condensed;
-        font-size: 16px;
+        font-size: 18px;
         font-style: italic;
         font-weight: 500;
         line-height: normal;
@@ -185,7 +185,7 @@ section li{
         color: #FFF;
         text-align: center;
         font-family: Barlow Condensed;
-        font-size: 18px;
+        font-size: 20px;
         font-style: normal;
         font-weight: 500;
         line-height: normal;
@@ -203,7 +203,7 @@ section li{
         color: #FFF;
         text-align: center;
         font-family: Montserrat;
-        font-size: 12px;
+        font-size: 14px;
         font-style: normal;
         font-weight: 400;
         line-height: auto;
