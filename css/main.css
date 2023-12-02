@@ -83,10 +83,10 @@ section span {
 section h1 {
     color: #FFF;
     text-align: center;
-    font-family: Barlow Condensed;
-    font-size: 32px;
+    font-family: Montserrat;
+    font-size: 24px;
     font-style: normal;
-    font-weight: 500;
+    font-weight: 600;
     line-height: normal;
 }
 
@@ -196,8 +196,8 @@ footer {
     section h1 {
         color: #FFF;
         text-align: center;
-        font-family: Barlow Condensed;
-        font-size: 20px;
+        font-family: Fira Sans Condensed;
+        font-size: 18px;
         font-style: normal;
         font-weight: 500;
         line-height: normal;
