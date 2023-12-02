@@ -75,7 +75,7 @@ section span {
     color: #FFF;
     text-align: center;
     font-family: Fira Sans Condensed;
-    font-size: 24px;
+    font-size: 20px;
     font-style: italic;
     font-weight: 500;
     line-height: normal;
@@ -85,7 +85,7 @@ section h1 {
     color: #FFF;
     text-align: center;
     font-family: Montserrat;
-    font-size: 24px;
+    font-size: 18px;
     font-style: normal;
     font-weight: 600;
     line-height: normal;
@@ -128,7 +128,7 @@ section li{
     display: flex;
     flex-direction: row;
     justify-content: space-between; /* Alinea los elementos horizontalmente */
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     align-items: center;
 }
 
@@ -136,7 +136,7 @@ footer {
     color: #FFF;
     text-align: center;
     font-family: Montserrat;
-    font-size: 12px;
+    font-size: 14px;
     font-style: normal;
     font-weight: 300;
     line-height: normal;
