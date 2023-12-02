@@ -6,7 +6,7 @@ body, html {
 
 .bg {
   /* IMG de fondo */
-  background-image: url("https://raw.githubusercontent.com/renatopuente/TATOO/main/assets/fondo.jpg?token=GHSAT0AAAAAACLCHFDVD6WWUNJHTVMNXXHYZLKV3BA");
+  background-image: url("../assets/fondo.jpg");
 
   /* Full height */
   height: 100%; 
