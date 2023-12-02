@@ -194,7 +194,7 @@ section li{
     section div ul{
         display: flex;
         flex-direction: column;
-        width: 80%;
+        width: 100%;
         list-style: none;
     }
 
