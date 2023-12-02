@@ -5,13 +5,13 @@ body, html {
 
 
 .bg {
-  /* The image used */
+  /* IMG de fondo */
   background-image: url("https://raw.githubusercontent.com/renatopuente/TATOO/main/assets/fondo.jpg?token=GHSAT0AAAAAACLCHFDVD6WWUNJHTVMNXXHYZLKV3BA");
 
   /* Full height */
   height: 100%; 
 
-  /* Center and scale the image nicely */
+  /* Centrar img */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
