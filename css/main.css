@@ -10,7 +10,7 @@ body, html {
 
 .bg {
   /* IMG de fondo */
-  background-image: url("../assets/fondo.jpg");
+  background-image: url("../assets/fondo1.jpg");
 
   /* Full height */
   height: 100%; 
@@ -86,7 +86,42 @@ section h1 {
     font-family: Barlow Condensed;
     font-size: 32px;
     font-style: normal;
-    font-weight: 600;
+    font-weight: 500;
     line-height: normal;
 }
 
+section div ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 600px;
+    list-style: none;
+}
+
+section a{
+    text-decoration: none;
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+section li{
+    background-color: #ff6b00;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; /* Alinea los elementos horizontalmente */
+    margin-bottom: 100px;
+    align-items: center;
+}
+
+section svg {
+}
