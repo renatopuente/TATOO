@@ -101,6 +101,12 @@ section div ul{
 
 
 section a{
+    background-color: #ff6b00;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-radius: 16px;
     text-decoration: none;
     color: #FFF;
     text-align: center;
@@ -119,12 +125,6 @@ section a svg{
 }
 
 section li{
-    background-color: #ff6b00;
-    padding-left: 8px;
-    padding-right: 8px;
-    padding-top: 2px;
-    padding-bottom: 2px;
-    border-radius: 16px;
     display: flex;
     flex-direction: row;
     justify-content: space-between; /* Alinea los elementos horizontalmente */
@@ -219,6 +219,12 @@ footer {
     }
 
     section a{
+        background-color: #ff6b00;
+        padding-left: 8px;
+        padding-right: 8px;
+        padding-top: 2px;
+        padding-bottom: 2px;
+        border-radius: 16px;
         text-decoration: none;
         color: #FFF;
         text-align: center;
@@ -230,12 +236,7 @@ footer {
     }
     
     section li{
-        background-color: #ff6b00;
-        padding-left: 8px;
-        padding-right: 8px;
-        padding-top: 2px;
-        padding-bottom: 2px;
-        border-radius: 16px;
+     
         display: flex;
         flex-direction: column;
         justify-content: space-between; /* Alinea los elementos horizontalmente */
